@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer from Bhaktapur, Nepal</h3>
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
 </div>
 
 <p align="center"> 
