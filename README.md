@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ajay Dhital</h1>
 <h3 align="center">Professional Code Whisperer | MERN Stack Enthusiast | Debugging Jedi | haha JUST KIDDING</h3>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
-  <p><i>"AI will take over Humanity!"</i></p>
+  <div align="center">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajay001-zz&label=People%20who%20clicked%20out%20of%20curiosity&color=blue&style=flat-square" alt="Profile Views">
@@ -77,5 +77,6 @@
 
 ### ✍️ Quote:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote='Coding is 10% writing and 90% staring at the screen wondering why it’s not working!'" alt="Quote">
+  <img src="https://readme-quote.vercel.app/api?type=horizontal&theme=radical&quote=Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.&author=Anonymous" alt="Funny Quote" />
 </p>
+
