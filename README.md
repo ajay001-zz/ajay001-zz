@@ -22,7 +22,7 @@
 - 👨‍💻 **Portfolio Website:** [Visit Here](https://ajay001-zz.github.io/Ajay-dhital/) (Prepare to be amazed... or not)
 - 💬 **Ask Me About:** JavaScript, React, MongoDB, Node.js (or my obsession with snacks during coding)
 - 📫 **Reach Me At:** azaydhital1@gmail.com (Or just shout loudly, I might hear you)
-- ⚡ **Fun Fact:** My code works... eventually.
+- ⚡ **Fun Fact:** My code might work... i don't know.
 
 ---
 
