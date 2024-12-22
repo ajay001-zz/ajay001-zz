@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Dhital</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bhaktapur, Nepal</h3>
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
-</div>
+
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ajay001-zz&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
