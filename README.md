@@ -76,7 +76,10 @@
 ---
 
 ### ✍️ Quote:
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?type=horizontal&theme=radical&quote=Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.&author=Anonymous" alt="Funny Quote" />
+
+  <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Funny Quote">
 </p>
+
+
 
